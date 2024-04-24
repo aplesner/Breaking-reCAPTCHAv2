@@ -1,0 +1,15 @@
+CAPTCHA_URL = https://www.google.com/recaptcha/api2/demo
+THRESHOLD = 0.2
+CLASSES = ['bicycle', 'bridge', 'bus', 'car', 'chimney', 'crosswalk', 'hydrant', 'motorcycle', 'other', 'palm', 'stairs', 'traffic']
+YOLO_CLASSES = ['bicycle', 'bridge', 'bus', 'car', 'chimney', 'crosswalk', 'hydrant', 'motorcycle', 'mountain', 'other', 'palm', 'traffic']
+MODEL = YOLO
+TYPE1 = True
+TYPE2 = True
+TYPE3 = True
+ENABLE_LOGS = True
+ENABLE_VPN = False
+ENABLE_MOUSE_MOVEMENT = True
+ENABLE_NATURAL_MOUSE_MOVEMENT = True
+ENABLE_COOKIES = True
+USE_TOP_N_STRATEGY = False
+N = 3
