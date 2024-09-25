@@ -1,5 +1,5 @@
 # Breaking-reCAPTCHAv2
-Code for the paper `Breaking reCAPTCHAv2` accepted at COMPSAC 2024.
+Code for the paper `Breaking reCAPTCHAv2` accepted at COMPSAC 2024 (https://arxiv.org/abs/2409.08831).
 
 ## Introduction
 CAPTCHAs (Completely Automated Public Turing Tests to Tell Computers and Humans Apart) have been a vital security measure on the internet, protecting websites from automated bots and malicious activities. However, with the rapid advancements in machine learning and artificial intelligence, the effectiveness of CAPTCHAs in distinguishing between humans and machines has come into question.
