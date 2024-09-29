@@ -506,7 +506,7 @@ def run():
                 vpn.disconnect()
                 break
         except Exception as e:
-            print("error occured:", e)
+            print("error occurred:", e)
             traceback.print_exc()
             vpn.disconnect()
             if captcha_is_solved(driver):
